@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hesham-abdelaziz
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning front-end
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
